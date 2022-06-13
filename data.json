@@ -1,10 +1,10 @@
 {
-  "Global Warming":".",
-  "Climate Change":".",
-  "Sea Level Rise":".",
-  "Shrinking Icebergs":".",
-  "Worsening polar life":".",
-  "Canada":".",
-  "America":".",
-  "World":"."
+  ".":"Global Warming",
+  ".":"Climate Change",
+  ".":"Sea Level Rise",
+  ".":"Shrinking Icebergs",
+  ".":"Worsening polar life",
+  ".":"Canada",
+  ".":"America",
+  ".":"World"
 }
